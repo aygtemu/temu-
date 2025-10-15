@@ -1,7 +1,6 @@
 {
-  "version": "2.0.1",
-  "release_date": "2025-10-15",
-  "download_url": "https://github.com/aygtemu/temu-.git/releases/latest",
-  "required": false
+  "version": "2.0.1",  // 新版本号
+  "releaseDate": "2025-10-15",
+  "description": "修复了联网检测功能，优化了词库更新机制",
+  "downloadUrl": "https://aygtemu.github.io/temu-/temuSan_2.0.1.zip"  // 指向更新页面的链接
 }
-
