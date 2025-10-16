@@ -1,5 +1,5 @@
 {
-  "version": "2.0.2",
-  "downloadUrl": "https://aygtemu.github.io/temu-/temuSan_latest.zip",
+  "version": "2.0.1",
+  "downloadUrl": "https://aygtemu.github.io/temu-/temuSan插件.crx",
   "updateContent": "优化联网检测功能;改进更新机制;添加版本检查逻辑;修复已知问题"
 }
