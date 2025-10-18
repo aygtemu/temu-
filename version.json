@@ -1,0 +1,18 @@
+{
+  "version": "2.0.3",
+  "name": "TemuSan",
+  "updateContent": "1) 清空存储改为批量删除/快速清库，显著提升性能；2) 点击插件图标时联网检查更新，无更新直接进入画廊；3) 后台取消时间间隔限制，每次触发都检查；4) 稳定性与提示优化。",
+  "downloadUrl": "https://aygtemu.github.io/temu-/temuSan_v2.0.3.zip",
+  "releasedAt": "2025-10-18T00:00:00Z",
+  "wordEndpoints": {
+    "prohibitedWordsUrl": "https://aygtemu.github.io/temu-/words/prohibited-words.json",
+    "filterWordsUrl": "https://aygtemu.github.io/temu-/words/filter-words.json"
+  },
+  "assets": [
+    {
+      "filename": "temuSan_v2.0.3.zip",
+      "sha256": "REPLACE_WITH_SHA256",
+      "size": "REPLACE_WITH_SIZE"
+    }
+  ]
+}
