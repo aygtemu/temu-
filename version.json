@@ -6,7 +6,6 @@
   "releasedAt": "2025-10-18T00:00:00Z",
   "wordEndpoints": {
     "prohibitedWordsUrl": "https://aygtemu.github.io/temu-/words/prohibited-words.json",
-    "filterWordsUrl": "https://aygtemu.github.io/temu-/words/filter-words.json"
   },
   "assets": [
     {
