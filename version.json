@@ -1,5 +1,5 @@
 {
-  "version": "2.0.3",
-  "updateContent": "优化在线更新逻辑；修复激活界面闪屏；新增更新提示面板与覆盖更新指导。",
-  "downloadUrl": "https://aygtemu.github.io/temu-/temuSan_v2.0.3.zip"
+  "version": "2.0.4",
+  "updateContent": "修复快捷键偶尔不工作；修复导入文件不能筛选违规。",
+  "downloadUrl": "https://aygtemu.github.io/temu-/temuSan_v2.0.4.zip"
 }
